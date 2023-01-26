@@ -1,0 +1,15 @@
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/bin/Debug/net7.0/InheritenceMethod
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/bin/Debug/net7.0/InheritenceMethod.deps.json
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/bin/Debug/net7.0/InheritenceMethod.runtimeconfig.json
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/bin/Debug/net7.0/InheritenceMethod.dll
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/bin/Debug/net7.0/InheritenceMethod.pdb
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.csproj.AssemblyReference.cache
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.AssemblyInfoInputs.cache
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.AssemblyInfo.cs
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.csproj.CoreCompileInputs.cache
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.dll
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/refint/InheritenceMethod.dll
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.pdb
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/InheritenceMethod.genruntimeconfig.cache
+/Users/rashadheydarli/Projects/InheritenceMethod/InheritenceMethod/obj/Debug/net7.0/ref/InheritenceMethod.dll
